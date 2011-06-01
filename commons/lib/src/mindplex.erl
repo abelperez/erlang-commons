@@ -6,7 +6,7 @@
 %%%  Functions related to processing strings.
 %%% @end
 %%%-------------------------------------------------------------------
--module(mpstr).
+-module(mindplex).
 
 %%--------------------------------------------------------------------
 %% External exports
